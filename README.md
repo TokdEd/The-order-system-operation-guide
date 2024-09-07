@@ -1,2 +1,29 @@
-# The-order-system-operation-guide
-![Alt text](img_5001.png)
+# Project Documentation
+
+## 登入後的畫面
+![登入後的畫面](IMG_5002.png)
+
+## 登錄畫面
+![登錄畫面](IMG_5001.png)
+> (帳號為坐號，密碼為31014坐號
+> Ex:
+> ID:23
+> Password:3101423)
+
+## 管理員創建訂單畫面
+![管理員創建訂單畫面](IMG_5003.png)
+
+## 管理員創建訂單完成後的畫面
+![管理員創建訂單完成後的畫面](IMG_5004.png)
+
+## 管理員訂單創建完成後的使用者畫面
+![管理員訂單創建完成後的使用者畫面](IMG_5005.png)
+
+## 使用者下單範例
+![使用者下單範例](IMG_5007.png)
+
+## 有人下單後管理員的畫面
+![有人下單後管理員的畫面](IMG_5008.png)
+
+## Project logo
+![Project logo](IMG_5001.png)
